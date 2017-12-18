@@ -4,7 +4,6 @@
 # Best fit line for large dataset.
 
 import csv
-from statistics import mean
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import style
